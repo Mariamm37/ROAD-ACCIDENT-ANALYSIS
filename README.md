@@ -20,23 +20,25 @@ The dashboard was built to meet the following objectives:
 * Slicers & Timelines - Enabling interactive filtering by year, quarter, and accident conditions
 * Dataset:
 
-4. ## DASHBOARD PREVIEW
+5. ## DASHBOARD PREVIEW
 ![Road Accident](https://github.com/user-attachments/assets/a64cefff-0722-46df-84db-ca6dd38363b1)
 
-5. ## KEY INSIGHTS
+6. ## KEY INSIGHTS
 * 84% of casualties were slight injuries, with only 2% fatal cases.
 * Cars accounted for the highest casualties (333,484K) far more than other vehicle types.
 * Single carriageways contributed to the largest number of casualties (413.4k cases).
 * More casualties occurred in urban areas (255.9k) than in rural areas (162k).
 * Accidents were more common in daylight (305k casualties) compared to darkness (112.9k).
 
-6. ## RECOMMENDATIONS
+7. ## RECOMMENDATIONS
 * Road Safety Campaigns: Awareness programs for urban drivers, especially car users.
 * Infrastructure Improvements: Safety upgrades on single carriageways to reduce high casualty rates.
 * Lighting Enhancements: Improve road visibility at night to lower darkness-related casualties.
 * Policy Measures: Stricter enforcement of speed limits and safety rules in high-risk urban zones.
 
-7. ## CONCLUSIONS
+8. ## CONCLUSIONS
 The Road Accident Dashboard provides a comprehensive analysis of accident patterns and risk factors. It enables policymakers, traffic authorities, and safety agencies to Identify high-risk zones and vehicle types, compare accident patterns over time, and take data-driven decisions for reducing casualties.
 
-8. ## PROJECT FILE
+9. ## PROJECT FILE
+    [Road Accident Data and Analysis.xlsx](https://github.com/user-attachments/files/22119918/Road.Accident.Data.and.Analysis.xlsx)
+
